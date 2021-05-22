@@ -1,4 +1,6 @@
-# CodeChef Copy Test Case(Firefox Extension [:exclamation:not for android])
+<h1><span style = "color:blue">CodeChef Copy Test Case(Firefox Extension)</span></h1>
+
+<h2 >[&#10071;not for android])</h2>
 
 <br>
 
@@ -40,4 +42,5 @@ I am also a competitve coder. Unlike codeforces , codechef lacks the feature of 
 [MIT](https://github.com/Harry-kp/Codechef_Copy_TestCase/blob/main/LICENSE)
 
 # Contribute
-  
+
+[Contribute](https://github.com/Harry-kp/Codechef_Copy_TestCase/blob/main/CONTRIBUTE.md)
