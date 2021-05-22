@@ -25,8 +25,8 @@ I am also a competitve coder. Unlike codeforces , codechef lacks the feature of 
 
 # How to Use :zzz:
 
-- Open any coding problem on codechef in a <span style="color:red"> <strong>new tab</strong> </span>.
-- Wait for atmost 3 seconds . Copy button will appear besides test case . Click and Copy. :boom::boom:
+- Open any coding problem on codechef in a :warning:**new tab** :warning:.
+- Wait for atmost 3 seconds . Copy button will appear besides test case . Click and Copy.
   <br>
   <br>
 
