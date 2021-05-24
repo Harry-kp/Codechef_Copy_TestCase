@@ -101,4 +101,4 @@ setTimeout(function () {
     } catch (err) {
         alert(err + ".Send this problem link to developer.");
     }
-}, 2000);
+}, 6000);

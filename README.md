@@ -6,7 +6,7 @@
 
 # Description :snail:
 
-- After adding this extension , Whenever you open a coding problem on codechef, a copy button will be placed besides test input/output test case .You can simply click on it and copy the text.
+- After adding this extension , Whenever you open a coding problem on codechef, a copy button will be placed besides input/output test case .You can simply click on it and copy the text.
 - I used **javascipt** to manipulate the DOM as it is easy to resolve this problem in Js.
 - **NOTE:-** Every problem on codechef doesn't follow same type of DOM (i.e position of test cases in DOM) , Sometime you can find that copy button doesn't show up instead an alert came up.
   - :raising_hand:In this case, please raise an issue by adding that problem link. This will help to acknowledge the error asap and fix them.
@@ -20,6 +20,8 @@ I am also a competitve coder. Unlike codeforces , codechef lacks the feature of 
 <br>
 
 # How to Install :point_down:
+
+[Click here]('https://addons.mozilla.org/en-US/firefox/addon/codechef-copy-tc/') and add this extension.
 
 <br>
 
